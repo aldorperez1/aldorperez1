@@ -8,7 +8,7 @@ DevSecOps engineer with a passion for automation and proven experience automatin
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/><img src="" alt="Python Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="Ansible Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="Ansible Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="K8s Logo" width="50" height="50"/>
 
 ---
 
